@@ -1,10 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
-import amaryllis from "../../image/WhatsApp Image 2024-11-10 at 3.59.48 PM (1).jpeg"
-import staticResume  from "../../image/WhatsApp Image 2024-11-10 at 3.59.40 PM.jpeg"
-import portfoli  from "../../image/WhatsApp Image 2024-11-10 at 3.59.48 PM.jpeg"
-import figma  from "../../image/WhatsApp Image 2024-11-10 at 3.59.36 PM.jpeg"
-
+import amaryllis from "../../../public/image/WhatsApp Image 2024-11-10 at 3.59.48 PM (1).jpeg"
+import staticResume  from "../../../public/image/WhatsApp Image 2024-11-10 at 3.59.40 PM.jpeg"
+import portfoli  from "../../../public/image/WhatsApp Image 2024-11-10 at 3.59.48 PM.jpeg"
+import figma  from "../../../public/image/jadoo.jpeg"
 
 export default function Project(){
     return(
